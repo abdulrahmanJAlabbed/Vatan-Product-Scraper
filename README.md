@@ -29,7 +29,7 @@ Clone this repository or download the spider file to your local machine.
    Navigate to the directory where the spider file is saved and run the following command in your terminal:
 
    ```bash
-   scrapy runspider vatan_spider.py
+   scrapy crawl vatan
    ```
 
 3. **Output**:  
