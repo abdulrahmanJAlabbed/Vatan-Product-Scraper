@@ -113,9 +113,6 @@ Clone this repository or download the spider file to your local machine.
 - Ensure that the path you specify for saving the CSV file is correct and accessible.
 - This spider is designed to be run on a local machine. For a production environment, consider using Scrapy's CrawlSpider or deploying it to a cloud-based service like Scrapy Cloud.
 
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact 📧
 
@@ -124,13 +121,4 @@ If you have any questions or feedback, feel free to open an issue or contact me 
 ---
 
 Happy scraping! 🕸️
-```
 
-### Key Sections Breakdown:
-- **Introduction & Features**: Provides a brief overview of the spider and what it does.
-- **Installation & Usage**: Explains how to install Scrapy and run the spider.
-- **Code Breakdown**: Walks through the main components of the code.
-- **Customization**: Guides users on modifying the spider for different use cases.
-- **License & Contact**: Offers a standard licensing section and a way to contact you for further inquiries.
-
-This should give users a clear understanding of how to use your spider, as well as how they can modify it to suit their needs.
