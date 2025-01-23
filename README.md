@@ -1,4 +1,4 @@
-```markdown
+
 # Vatan Spider 🕷️
 
 A Scrapy spider for scraping product information from the [Vatan Bilgisayar website](https://www.vatanbilgisayar.com/). This spider crawls product categories, retrieves product details such as name, price, image, and URL, and saves the data in a CSV format. It also handles pagination for scraping multiple pages of product listings.
