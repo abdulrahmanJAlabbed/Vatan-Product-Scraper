@@ -1,6 +1,7 @@
 🖥️ Vatan Bilgisayar Web Scraper
 📝 Description
 Python Scrapy spider for scraping product information from Vatan Bilgisayar's website.
+
 🚀 Features
 
 Crawl product categories
